@@ -2,7 +2,7 @@
   "name": "walletconnect-example-dapp",
   "homepage": "https://bill-shuzhou-liu.github.io/walletconnect-example",
   "version": "1.6.5",
-  "private": true,
+  "private": false,
   "keywords": [
     "walletconnect",
     "ethereum",
@@ -43,6 +43,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-is": "^17.0.2",
+    "react-router-dom": "^6.0.1",
     "react-scripts-ts": "^4.0.8",
     "styled-components": "^5.3.3"
   },

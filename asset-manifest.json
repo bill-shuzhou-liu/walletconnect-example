@@ -1,6 +1,6 @@
 {
-  "main.js": "/walletconnect-example/static/js/main.392233c9.chunk.js",
-  "main.js.map": "/walletconnect-example/static/js/main.392233c9.chunk.js.map",
+  "main.js": "/walletconnect-example/static/js/main.be9cd282.chunk.js",
+  "main.js.map": "/walletconnect-example/static/js/main.be9cd282.chunk.js.map",
   "static/js/1.873b984b.chunk.js": "/walletconnect-example/static/js/1.873b984b.chunk.js",
   "static/js/1.873b984b.chunk.js.map": "/walletconnect-example/static/js/1.873b984b.chunk.js.map",
   "runtime~main.js": "/walletconnect-example/static/js/runtime~main.01e1ec86.js",
@@ -10,6 +10,6 @@
   "static/media/eth.svg": "/walletconnect-example/static/media/eth.5d1692b2.svg",
   "static/media/xdai.png": "/walletconnect-example/static/media/xdai.e37299a8.png",
   "index.html": "/walletconnect-example/index.html",
-  "precache-manifest.65268fc15f0c977af98aeded364bbd07.js": "/walletconnect-example/precache-manifest.65268fc15f0c977af98aeded364bbd07.js",
+  "precache-manifest.2d561b4923aed36881a6fb0eab1430d5.js": "/walletconnect-example/precache-manifest.2d561b4923aed36881a6fb0eab1430d5.js",
   "service-worker.js": "/walletconnect-example/service-worker.js"
 }

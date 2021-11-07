@@ -308,7 +308,7 @@ class App extends React.Component<any, any> {
     const gasLimit = sanitizeHex(convertStringToHex(_gasLimit));
 
     // value
-    const _value = "100000000000000000";   // 0.1 eth
+    const _value = "10000000000000000";   // 0.01 eth
     const value = sanitizeHex(convertStringToHex(_value));
 
     // data
@@ -364,7 +364,7 @@ class App extends React.Component<any, any> {
     }
 
     // test message
-    const message = `My email is john@doe.com - ${new Date().toUTCString()}`;
+    const message = `My email is test@dfuture.ca - ${new Date().toUTCString()}`;
 
     // encode message (hex)
     const hexMsg = convertUtf8ToHex(message);
